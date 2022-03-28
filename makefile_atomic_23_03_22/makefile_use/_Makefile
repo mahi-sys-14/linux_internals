@@ -1,0 +1,10 @@
+
+$(CC) := gcc
+# cc := gcc
+
+calc:
+	$(CC) main_mkf.c calc_mean.c calc_sub.c -o calc
+
+clean:
+	rm -f *.o calc
+#	rm -f *.c

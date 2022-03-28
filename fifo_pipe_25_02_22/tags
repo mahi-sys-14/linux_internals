@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+child_code	pipe2.c	/^void child_code()$/;"	f
+fds	pipe2.c	/^int fds[2];$/;"	v
+main	fiforead.c	/^int main()$/;"	f
+main	fifowrite.c	/^int main()$/;"	f
+main	pipe1.c	/^int main()$/;"	f
+main	pipe2.c	/^int main()$/;"	f
+main	scanf_pipe_write.c	/^int main()$/;"	f
+parent_code	pipe2.c	/^void parent_code()$/;"	f
