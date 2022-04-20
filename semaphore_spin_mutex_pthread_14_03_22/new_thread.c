@@ -11,7 +11,7 @@ void *process(void *arg)
 	/* process a client request */
 	printf("Sleeping 2 sec\n");
 
-	sleep(2);
+	sleep(4);
 	printf("slept 2 sec\n");
 }
 

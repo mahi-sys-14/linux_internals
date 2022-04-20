@@ -11,7 +11,7 @@ int main()
 {
 	pthread_t tid;
 	struct sched_param param;
-	int priority, policy, ret;
+	int policy, ret;
 
 	/* scheduling parameters of target thread */
 	ret=pthread_getschedparam(pthread_self(), &policy, &param);
